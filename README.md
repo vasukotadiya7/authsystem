@@ -1,13 +1,13 @@
-# authsystem
-redirect authentication system
+# Redirect Authentication System
+
+Here is one website which will authenticate users come from different app like android or webapp or windows software 
 
 
-Here i am building website that authenticate users which is from any platform like android app, website, or windows software
+## 🔗 Links
+API :- [GitHub Repo.](https://github.com/vasukotadiya7/weboauthapi.git) || [Live Link](https://weboauthapi.onrender.com)
 
-here are repositories of building this
+Intermiddiate Website :- [GitHub Repo.](https://github.com/vasukotadiya7/webOauth.git) || [Live Link](https://weboauth.vasukotadiya.site)
 
-Intermidiate website :- weboauth.vasukotadiya.site
+Android App (Client) :- [GitHub Repo.](https://github.com/vasukotadiya7/Android_WebOAuth.git)
 
-API :- 
 
-Android App :- 
