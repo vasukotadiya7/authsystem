@@ -10,4 +10,6 @@ Intermiddiate Website :- [GitHub Repo.](https://github.com/vasukotadiya7/webOaut
 
 Android App (Client) :- [GitHub Repo.](https://github.com/vasukotadiya7/Android_WebOAuth.git)
 
+Windows Application (Client) :- [GitHub Repo.](https://github.com/vasukotadiya7/WebOAuthWindows.git)
+
 
